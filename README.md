@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there! 👋
+
+Hello, I'm Wolfeiii. I am a Java Developer mostly making plugins for Swedish Servers. Most of my focus is in Minecraft for the most recent years.
+
+My specialty is plugin developing, but learning C# for game developing.
+
+[agoniamc.eu](https://agoniamc.eu) - My current main server, head of development and adminstrator,
+[xfunserver.se](https://xfunserver.se) - Swedish Server that I manage.
+
+Check out my pinned repos for some of my recent work.
 
 <!--
 **Wolfeii/Wolfeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
