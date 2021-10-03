@@ -1,6 +1,8 @@
 ### Hello there! 👋
 
-Hello, I'm Wolfeiii. I am a Java Developer mostly making plugins for Swedish Servers. Most of my focus is in Minecraft for the most recent years.
+Hello, I'm Wolfeiii. I am a Java Developer mostly making plugins for Swedish Servers. Most of 
+my focus is in Minecraft for the most recent years. I'm trying to contribute to open source projects
+and learning new things all the time.
 
 My specialty is plugin developing, but learning C# for game developing.
 
