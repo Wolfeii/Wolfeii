@@ -5,10 +5,6 @@ my focus is in Minecraft for the most recent years. I'm trying to contribute to 
 and learning new things all the time.
 
 My specialty is plugin developing, but learning C# for game developing.
-
-- [agoniamc.eu](https://agoniamc.eu) - My current main server, head of development and adminstrator,
-- [xfunserver.se](https://xfunserver.se) - Swedish Server that I manage.
-
 Check out my pinned repos for some of my recent work.
 
 <!--
